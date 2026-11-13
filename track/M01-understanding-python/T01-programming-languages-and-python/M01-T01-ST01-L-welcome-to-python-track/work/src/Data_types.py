@@ -43,3 +43,4 @@ first = float(input("Enter first number :"))
 second = float(input("Enter second number: "))
 print(f"the sum of {first} and {second} is {first + second}")
 print(type(first))
+
