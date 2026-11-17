@@ -56,3 +56,13 @@ print(t1 + t2)
 print(t1 * 2)
 
 del t
+
+stu_info =["ram",23]
+# rename => aliasis
+stu = "sto_info"
+print(stu)
+print(stu in stu_info)
+
+x= [1, 2, 3]
+y= [1, 2, 3]
+print(x, y)
