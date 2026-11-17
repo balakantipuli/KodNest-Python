@@ -215,3 +215,6 @@ print(s[-100:-1:-1])
 s = "PYTHON"
 
 print(s[-1::-2][-2::-1])
+
+s = "ABCDEFGHIJKLMN"
+print(s[::-2][::-1])
